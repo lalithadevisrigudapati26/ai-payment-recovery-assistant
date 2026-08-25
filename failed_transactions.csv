@@ -1,0 +1,16 @@
+customer_name,email,amount,payment_method,failure_reason_raw,transaction_date
+Rahul Sharma,rahul.sharma@email.com,2499,Credit Card,insufficient_funds,2026-08-01
+Priya Patel,priya.patel@email.com,899,UPI,timeout,2026-08-02
+Amit Kumar,amit.kumar@email.com,15999,Debit Card,card_declined,2026-08-02
+Sneha Reddy,sneha.reddy@email.com,499,UPI,insufficient_funds,2026-08-03
+Vikram Singh,vikram.singh@email.com,3299,Net Banking,session_expired,2026-08-03
+Ananya Iyer,ananya.iyer@email.com,7999,Credit Card,card_declined,2026-08-04
+Karan Mehta,karan.mehta@email.com,1299,UPI,timeout,2026-08-04
+Divya Nair,divya.nair@email.com,599,Debit Card,insufficient_funds,2026-08-05
+Rohan Gupta,rohan.gupta@email.com,4999,Credit Card,otp_failed,2026-08-05
+Ishita Das,ishita.das@email.com,2199,UPI,timeout,2026-08-06
+Arjun Rao,arjun.rao@email.com,999,Net Banking,session_expired,2026-08-06
+Meera Joshi,meera.joshi@email.com,12499,Credit Card,card_declined,2026-08-07
+Siddharth Verma,siddharth.verma@email.com,349,UPI,insufficient_funds,2026-08-07
+Pooja Chawla,pooja.chawla@email.com,5499,Debit Card,otp_failed,2026-08-08
+Nikhil Agarwal,nikhil.agarwal@email.com,899,UPI,timeout,2026-08-08
